@@ -1,0 +1,4 @@
+Need to pull the ftp code from github and work on it here
+Contains c structs
+
+Plus I need to start using git and github every single day
